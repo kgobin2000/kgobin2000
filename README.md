@@ -9,10 +9,8 @@
 
 ## Languages and Tools
 
-<!-- Add your languages and tools here, similar to the icons Bharat used -->
-
-## GitHub Stats
-
-<a href="https://github.com/kgobin2000">
-  <img height="137px" src="https://github-readme-stats-lilac-beta.vercel.app/api?username=kgobin2000"/>
-</a>
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,aws,nestjs,firebase,nodejs,postgres,postman,mongodb,ts,vercel,materialui, jest,docker,css" />
+  </a>
+</p>
