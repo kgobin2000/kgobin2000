@@ -15,8 +15,8 @@
 ## GitHub Stats
 
 <a href="https://github.com/kgobin2000">
-  <img height="137px" src="https://github-readme-stats-umber-delta.vercel.app/api?username=kgobin2000"/>
-  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kgobin2000&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+  <img height="137px" src="https://github-readme-stats-lilac-beta.vercel.app/api?username=kgobin2000"/>
+  <img height="137px" src="https://github-readme-stats-lilac-beta.vercel.app/top-langs/?username=kgobin2000&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 </a>
 
 ## LeetCode Stats
