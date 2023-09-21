@@ -10,7 +10,5 @@
 ## Languages and Tools
 
 <p>
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,aws,nestjs,firebase,nodejs,postgres,postman,mongodb,ts,vercel,materialui, jest,docker,css" />
-  </a>
 </p>
