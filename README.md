@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on my degree
 - 🌱 I’m currently learning Data Mining and Machine Learning
 - 👯 I’m looking to collaborate on App Development Projects
-- 📫 How to reach me: [Linked In](https://ca.linkedin.com/in/khalidgobin), [Outlook](khalidgobin@hotmail.com)
+- 📫 How to reach me: [LinkedIn](https://ca.linkedin.com/in/khalidgobin), [Outlook](khalidgobin@hotmail.com)
 
 ## Languages and Tools
 
@@ -16,7 +16,3 @@
 <a href="https://github.com/kgobin2000">
   <img height="137px" src="https://github-readme-stats-lilac-beta.vercel.app/api?username=kgobin2000"/>
 </a>
-
-## LeetCode Stats
-
-[![LeetCode Stats](https://leetcode.card.workers.dev/amirgobin?theme=nord&font=baloo&extension=null&height=137&width=320)](https://leetcode.com/amirgobin)
