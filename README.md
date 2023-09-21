@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on my degree
 - 🌱 I’m currently learning Data Mining and Machine Learning
-- 👯 I’m looking to collaborate on App Development Projects
+- 👯 I’m looking to collaborate on innovative startup ideas 🚀
 - 📫 How to reach me: [LinkedIn](https://ca.linkedin.com/in/khalidgobin), [Outlook](khalidgobin@hotmail.com)
 
 ## Languages and Tools
