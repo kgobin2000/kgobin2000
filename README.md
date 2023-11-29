@@ -12,3 +12,7 @@
 <p>
     <img src="https://skillicons.dev/icons?i=react,aws,nestjs,firebase,nodejs,postgres,postman,mongodb,ts,vercel,materialui, jest,docker,css" />
 </p>
+
+## Stay Tuned for Exciting Projects!
+
+I'm currently working on some cool data science projects that I can't wait to share with you. These projects will showcase innovative applications of machine learning and data analysis. Stay tuned for updates and feel free to reach out if you're interested in collaboration or just want to chat about data science!
